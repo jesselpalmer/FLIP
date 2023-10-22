@@ -1,0 +1,24 @@
+{
+  "name": "flip",
+  "version": "0.0.0",
+  "description": "FLIP - Functional Language for Intuitive Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesselpalmer/FLIP.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "language"
+  ],
+  "author": "Jesse Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesselpalmer/FLIP/issues"
+  },
+  "homepage": "https://github.com/jesselpalmer/FLIP#readme"
+}
